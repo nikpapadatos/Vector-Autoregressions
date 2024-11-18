@@ -1,8 +1,7 @@
 # Vector-Autoregressions
 
-More tha four decades ago, Christopher Sims (1980) provided a new macroeconometric framework that held great promise: vector autoregressions (VARs). A VAR is an
-n-equation, n-variable linear model in which each variable is in turn explained by its own lagged values, plus current and past values of the remaining n-1 variables.
+More than four decades ago, Christopher Sims (1980) introduced a groundbreaking macroeconometric framework: vector autoregressions (VARs). A VAR is an n-equation, n-variable linear model where each variable is explained by its own lagged values, alongside the current and past values of the remaining n-1 variables.
 
-In this project, we attempt to theoreticaly describe and empirically test how well VAR models can adress four major macroeconomic tasks: data description, forecasting, structural inference and policy analysis. The VAR model selected as well as the theoretical stracture of the project is primarily based on an influential paper in the field, Stock, Watson (2001). 
+In this project, we aim to both theoretically describe and empirically evaluate the effectiveness of VAR models in addressing four key macroeconomic tasks: data description, forecasting, structural inference, and policy analysis. The VAR model selected and the theoretical framework of this study are primarily informed by the influential work of Stock and Watson (2001), which remains a cornerstone in the field.
 
 ## Referenses
